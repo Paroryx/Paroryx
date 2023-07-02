@@ -47,4 +47,4 @@
   <br>
   <hr>
 ### <img src="https://crazychicken334.2ix.at/github/images/statistics.gif" width="32"></img>Gihtub Statistics:
-![stats-overall](https://github-readme-stats.vercel.app/api?username=Paroryx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,35393e) ![stats-language](https://github-readme-stats.vercel.app/api/top-langs?username=Paroryx&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,35393e)
+<a href="https://www.github.com/paroryx">![stats-overall](https://github-readme-stats.vercel.app/api?username=Paroryx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,35393e)</a> <a href="https://www.github.com/paroryx">![stats-language](https://github-readme-stats.vercel.app/api/top-langs?username=Paroryx&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,35393e)</a>
