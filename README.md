@@ -6,7 +6,7 @@
  - currently a student at an IT-School in Austria 💼
 ### My Skills:
 <a href="https://www.java.com/" target="_blank" title="Java" >![java](https://i.ibb.co/g6VfJ7B/java-original-32x32.png)</a><a href="https://www.python.org/" target="_blank" title="Python" >![python](https://i.ibb.co/xCT261b/snakes-423066.png)</a> <a href="https://www.javascript.com/" target="_blank" title="Javascript" >![js](https://i.ibb.co/c3g23t7/image.png)</a>
-<a href="https://isocpp.org/" target="_blank" title="CPP-Noob">![cpp](https://i.ibb.co/mcdS7bk/image.png)</a> <a href="" title="HTML" >![html](https://i.ibb.co/qWLWCVJ/image.png)</a> <a href="https://www.php.net/" target="_blank" title="PHP-Noob" >![php](https://i.ibb.co/bgC8FhC/file-type-php.png)</a> <a href="https://www.mysql.com" target="_blank" title="MySQL-Noob">![mysql](https://i.ibb.co/VDZFNQR/database-mysql-1.png)</a>
+<a href="https://isocpp.org/" target="_blank" title="CPP-Noob">![cpp](https://i.ibb.co/mcdS7bk/image.png)</a> <a href="" title="HTML" >![html](https://i.ibb.co/qWLWCVJ/image.png)</a> <a href="https://www.php.net/" target="_blank" title="PHP-Noob" >![php](https://i.ibb.co/bgC8FhC/file-type-php.png)</a> <a href="https://www.mysql.com" target="_blank" title="MySQL">![mysql](https://i.ibb.co/VDZFNQR/database-mysql-1.png)</a>
 <a href="https://nodejs.org/" target="_blank" title="Node.js-Noob" >![nodejs](https://i.ibb.co/0sBBtYt/image.png)</a> <a href="https://www.kali.org/" target="_blank" title="Linux-Noob" >![linux](https://i.ibb.co/QCVRWbf/image.png)</a> <a href="" title="Windows" >![windows](https://i.ibb.co/p07vhjz/image.png)</a>
 - familiar with working with APIs 🖥
 - currently diving into networking (protocols, connections) 🌐
