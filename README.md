@@ -1,4 +1,4 @@
-## Hello <img src="https://i.ibb.co/y0N3K91/a-Nq-EFr-YVns-S52.webp" width="64"></img> I'm Paroryx 
+## Hello I'm Paroryx <img src="https://i.ibb.co/y0N3K91/a-Nq-EFr-YVns-S52.webp" width="128"></img>
 <a href="https://discordapp.com/users/992840490988863558" target="_blank" title="my Discord">![discordbanner](https://discord.c99.nl/widget/theme-4/992840490988863558.png)</a>
 ### My Skills:
 - **basic knowledge:**<br>
