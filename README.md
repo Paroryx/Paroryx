@@ -16,7 +16,7 @@
 - **very basic knowledge:**<br>
 <a href="[prolog](https://de.wikipedia.org/wiki/Prolog_(Programmiersprache))" target="_blank" title="Prolog">![prolog](https://i.ibb.co/Q90ttf5/image.png)</a><a href="https://isocpp.org/" target="_blank" title="CPP-Noob">![cpp](https://i.ibb.co/mcdS7bk/image.png)</a><a href="https://nodejs.org/" target="_blank" title="Node.js-Noob" >![nodejs](https://i.ibb.co/0sBBtYt/image.png)</a> <a href="https://www.kali.org/" target="_blank" title="Linux-Noob" >![linux](https://i.ibb.co/QCVRWbf/image.png)</a>
 - I have experience in working with APIs 🖥
-- I enjoy working with Windows batch and PowerShell scripts, exploring automation and console-based solutions 🪛
+- I enjoy working with Windows scripts, exploring automation and console-based solutions 🪛
 - always trying new things 👨‍💻
 ### My IDE:
 - IntelliJ IDEA Community Version  (_Java_)
