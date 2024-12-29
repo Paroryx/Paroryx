@@ -33,7 +33,7 @@
 | Power Supply  | SeaSonic FOCUS Plus 650 Gold 650 W Power Supply                  
 | Operating System | Microsoft Windows 10 Home OEM - DVD 64-bit                
 | Case Fan      | NZXT F120 RGB 50.18 CFM 120 mm Fan                             
-| Monitor       | Samsung Odyssey G32A 24.0" 1920 x 1080 165 Hz Monitor         
+| Monitors       | Samsung Odyssey G32A 24.0" 1920 x 1080 165Hz Monitor & Samsung Odyssey G30D 24.0" 1920 x 1080 180Hz Monitor    
 | Keyboard      | Ducky Ducky One 2 SF RGB Wired Gaming Keyboard (white)       
 | Mouse         | Glorious Model O Wireless Optical Mouse                     
 | Headphones    | Razer Kraken 7.1 V2 Mercury Edition 7.1 Channel Headset  
