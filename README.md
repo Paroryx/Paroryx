@@ -1,5 +1,13 @@
-## Hello I'm Paroryx <img src="https://i.ibb.co/y0N3K91/a-Nq-EFr-YVns-S52.webp" width="128"></img><p align="center"><a href="https://www.github.com/paroryx">![profile-views](https://komarev.com/ghpvc/?username=paroryx&color=brightgreen)</a><a href="https://www.github.com/paroryx"></p>
-<a href="https://discordapp.com/users/992840490988863558" target="_blank" title="my Discord">![discordbanner](https://discord.c99.nl/widget/theme-4/992840490988863558.png)</a>
+<p align="right">
+  <a href="https://www.github.com/paroryx">
+    <img src="https://komarev.com/ghpvc/?username=paroryx&color=brightgreen" alt="Profile Views">
+  </a>
+</p>
+
+## Hello, I'm Paroryx  
+![Discord Banner](https://discord.c99.nl/widget/theme-4/992840490988863558.png) <img align="right" src="https://i.ibb.co/y0N3K91/a-Nq-EFr-YVns-S52.webp" height="80"></img>
+
+---
 ### My Skills:
 - **basic knowledge:**<br>
 <a href="https://www.java.com/" target="_blank" title="Java" >![java](https://i.ibb.co/g6VfJ7B/java-original-32x32.png)</a><a href="https://www.javascript.com/" target="_blank" title="Javascript" >![js](https://i.ibb.co/c3g23t7/image.png)</a><a href="https://www.python.org/" target="_blank" title="Python" >![python](https://i.ibb.co/xCT261b/snakes-423066.png)</a>
