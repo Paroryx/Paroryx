@@ -1,4 +1,4 @@
-## Hello I'm Paroryx <img src="https://i.ibb.co/y0N3K91/a-Nq-EFr-YVns-S52.webp" width="128"></img>
+## Hello I'm Paroryx <img src="https://i.ibb.co/y0N3K91/a-Nq-EFr-YVns-S52.webp" width="128"></img><p align="center"><a href="https://www.github.com/paroryx">![profile-views](https://komarev.com/ghpvc/?username=paroryx&color=brightgreen)</a><a href="https://www.github.com/paroryx"></p>
 <a href="https://discordapp.com/users/992840490988863558" target="_blank" title="my Discord">![discordbanner](https://discord.c99.nl/widget/theme-4/992840490988863558.png)</a>
 ### My Skills:
 - **basic knowledge:**<br>
@@ -47,4 +47,4 @@
   <br>
   <hr>
 ### <img src="https://crazychicken334.2ix.at/github/images/statistics.gif" width="32"></img>Gihtub Statistics:
-<a href="https://www.github.com/paroryx">![stats-overall](https://github-readme-stats.vercel.app/api?username=Paroryx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,35393e)</a> <a href="https://www.github.com/paroryx">![profile-views](https://komarev.com/ghpvc/?username=paroryx&color=brightgreen)</a><a href="https://www.github.com/paroryx">![stats-language](https://github-readme-stats.vercel.app/api/top-langs?username=Paroryx&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,35393e)</a>
+<a href="https://www.github.com/paroryx">![stats-overall](https://github-readme-stats.vercel.app/api?username=Paroryx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,35393e)</a> ![stats-language](https://github-readme-stats.vercel.app/api/top-langs?username=Paroryx&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,35393e)</a>
